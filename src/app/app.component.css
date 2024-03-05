@@ -1,0 +1,39 @@
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.gray{
+  background-color: gray;
+}
+
+input{
+  margin: 5px auto;
+  height: 10%;
+  width: 80%;
+  border-radius: 10px;
+  font-size: 500%;
+  font-family: serif;
+}
+
+section{
+  width: 80%;
+  height: 20%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5px auto;
+}
+
+h1{
+  margin: 0 auto;
+  font-size: 300%;
+  font-family: serif;
+  color: #a6a6a6;
+}
+
+
+
